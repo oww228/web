@@ -1,0 +1,22 @@
+  body {
+  background-color:navajowhite;
+}
+
+  h1{
+    color: brown;
+    font-family: serif;
+  }
+  h2{color:#085c08;
+    font-family:sans-serif;
+  }
+  div{display:grid;
+  justify-content: flex-end;}
+.imgbox{display: flex;
+justify-content: flex-end;}
+div{animation-iteration-count:infinite;}
+
+.card{
+  position:absolute;
+  top:0;
+  right:0;
+}
